@@ -3,7 +3,7 @@
 
 import tkinter as tk
 from tkinter import ttk, messagebox
-from cpu_scheduler import Process, CPUScheduler
+from os_sim import Process, CPUScheduler
 
 class CPUSchedulerGUI:
     def __init__(self, root):
