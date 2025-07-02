@@ -16,7 +16,7 @@ A graphical CPU scheduling simulator built with **Tkinter** to demonstrate the f
 Clone the repository to your local machine:
 
 ```bash
-git clone ""https://github.com/ARYAAKSHATH/OS-Scheduling-Simulator-.git
+git clone "https://github.com/ARYAAKSHATH/OS-Scheduling-Simulator-.git"
 cd OS-Scheduling-Simulator-
 ````
 
