@@ -1,5 +1,7 @@
 # CPU Scheduling Simulator
 
+> Developed By: Akshath Arya 
+
 A graphical CPU scheduling simulator built with **Tkinter** to demonstrate the following CPU scheduling algorithms:
 
 - **FCFS** (First-Come, First-Served)  
